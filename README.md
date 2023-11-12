@@ -31,6 +31,6 @@ Welcome to the React.js E-Commerce App, a small yet powerful application for man
 
 ### Contribution
 
-We welcome contributions! If you have suggestions, encounter bugs, or want to enhance the project, please open an issue or submit a pull request.
+I welcome contributions! If you have suggestions, encounter bugs, or want to enhance the project, please open an issue or submit a pull request.
 
 Feel free to customize the links, details, or any other information based on your app's specific characteristics. Happy coding!
